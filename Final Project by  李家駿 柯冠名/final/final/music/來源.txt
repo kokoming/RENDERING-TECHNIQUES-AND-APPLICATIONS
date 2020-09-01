@@ -1,0 +1,3 @@
+start_bgm.wav:https://www.youtube.com/watch?v=9t0Fju5ja_k
+dead_bgm.wav:https://www.youtube.com/watch?v=ff60xi_PLlo
+win_bgm:https://www.youtube.com/watch?v=fFRSUUDs470

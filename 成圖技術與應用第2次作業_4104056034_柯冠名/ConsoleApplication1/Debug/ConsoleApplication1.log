@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  main.cpp
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(5): warning C4005: 'NDEBUG': 巨集重複定義
+  c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(5): note: 命令列引數: 請參閱 'NDEBUG' 先前的定義
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(5): warning C4603: 'NDEBUG': 巨集未定義，或是定義在使用先行編譯標頭後變成不同
+  c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(5): note: 新增巨集到先行編譯標頭，而不要在此處定義
+  c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(6): note: 使用先行編譯標頭
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(45): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(45): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(781): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(781): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(1203): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\kokoming\desktop\成圖技術與應用第2次作業_4104056034_柯冠名\consoleapplication1\main.cpp(1203): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  ConsoleApplication1.vcxproj -> C:\Users\kokoming\Desktop\成圖技術與應用第2次作業_4104056034_柯冠名\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\kokoming\Desktop\成圖技術與應用第2次作業_4104056034_柯冠名\Debug\ConsoleApplication1.pdb (Full PDB)
