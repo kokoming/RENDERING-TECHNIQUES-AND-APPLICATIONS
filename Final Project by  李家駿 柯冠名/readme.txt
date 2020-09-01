@@ -29,3 +29,6 @@ final
 --music:存放音樂
 final.cpp:主程式位置
 glm.cpp:obj model loader
+
+learning more information in:
+https://github.com/JJ-Tom-Li/Rendering-Techniques-and-Applications-Assignments/tree/master/Final
