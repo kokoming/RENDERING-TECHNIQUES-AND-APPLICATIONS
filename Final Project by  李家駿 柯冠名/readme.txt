@@ -3,32 +3,32 @@ final
 	--GL:opengl functions.
 	--snowcraft
 		--constants
-			init_constants.h:¦s©ñ¦UºØ±`¼Æ»Pglobal variables¡A¨Ãinclude©Ò¦³»İ­nªºheaders¡Aload model»P«Ø¥ßDisplay listªºfunction¤]¦b³o¸Ì¡C
-			vec.cpp:¦Û¤v¼gªº3D¦V¶q(®y¼Ğ)ª«¥ó¡A¥i¶i¦æ¦V¶qªº¥[¡B´î¡Bdot»Pcross¹Bºâ¡C
+			init_constants.h:å­˜æ”¾å„ç¨®å¸¸æ•¸èˆ‡global variablesï¼Œä¸¦includeæ‰€æœ‰éœ€è¦çš„headersï¼Œload modelèˆ‡å»ºç«‹Display listçš„functionä¹Ÿåœ¨é€™è£¡ã€‚
+			vec.cpp:è‡ªå·±å¯«çš„3Då‘é‡(åº§æ¨™)ç‰©ä»¶ï¼Œå¯é€²è¡Œå‘é‡çš„åŠ ã€æ¸›ã€dotèˆ‡crossé‹ç®—ã€‚
 		--objects
-			bounding_box.cpp:¥i¥Î©ó¸I¼²°»´úªºbounding_box¡A³oµ{¦¡¨S¥Î¨ì¡C
-			enemy.cpp:©w¸qEnemyª«¥ó¡C
-			hero.cpp:©w¸qHeroª«¥ó¡C
-			Moving_object.h:¦UºØ²¾°Êª«¥óªº¤÷Ãş§O¡A©w¸q¤@­Ó¤TºûªÅ¶¡¥i²¾°Êªºª«¥ó¡C
-			snowball.cpp:©w¸qSnowballª«¥ó¡C
+			bounding_box.cpp:å¯ç”¨æ–¼ç¢°æ’åµæ¸¬çš„bounding_boxï¼Œé€™ç¨‹å¼æ²’ç”¨åˆ°ã€‚
+			enemy.cpp:å®šç¾©Enemyç‰©ä»¶ã€‚
+			hero.cpp:å®šç¾©Heroç‰©ä»¶ã€‚
+			Moving_object.h:å„ç¨®ç§»å‹•ç‰©ä»¶çš„çˆ¶é¡åˆ¥ï¼Œå®šç¾©ä¸€å€‹ä¸‰ç¶­ç©ºé–“å¯ç§»å‹•çš„ç‰©ä»¶ã€‚
+			snowball.cpp:å®šç¾©Snowballç‰©ä»¶ã€‚
 		--scene
-			battle_scene.cpp:©w¸q¾Ô³õ³õ´ºªºª«¥ó¡C
-			death_scene.cpp:©w¸q¦º¤`µe­±ªºª«¥ó¡C
-			middle_scene.cpp:©w¸q¹L³õµe­±ªºª«¥ó¡C
-			pause_scene.cpp:­ì©w¼È°±µe­±ªºª«¥ó«Å§i¡A¨ÃµL¹ê§@¡C
-			scene.h:¦UºØ³õ´ºª«¥óªº¤÷Ãş§O¡A¨ä¤¤¥]§t¤F·Æ¹«¦ì¸mto3D®y¼Ğªºfunction¡A¥H¤ÎÅª¨útextureªºfunction¡C
-			start_menu.cpp:©w¸q¶}©lµe­±ªºª«¥ó¡C
-			win_scene.cpp:©w¸q³Ó§Qµe­±ªºª«¥ó¡C
-		snowcraft.cpp:©w¸q¾ã­Ó¹CÀ¸ªºª«¥ó¡C
---lib:¦s©ñ»İ­nªºlib
+			battle_scene.cpp:å®šç¾©æˆ°å ´å ´æ™¯çš„ç‰©ä»¶ã€‚
+			death_scene.cpp:å®šç¾©æ­»äº¡ç•«é¢çš„ç‰©ä»¶ã€‚
+			middle_scene.cpp:å®šç¾©éå ´ç•«é¢çš„ç‰©ä»¶ã€‚
+			pause_scene.cpp:åŸå®šæš«åœç•«é¢çš„ç‰©ä»¶å®£å‘Šï¼Œä¸¦ç„¡å¯¦ä½œã€‚
+			scene.h:å„ç¨®å ´æ™¯ç‰©ä»¶çš„çˆ¶é¡åˆ¥ï¼Œå…¶ä¸­åŒ…å«äº†æ»‘é¼ ä½ç½®to3Dåº§æ¨™çš„functionï¼Œä»¥åŠè®€å–textureçš„functionã€‚
+			start_menu.cpp:å®šç¾©é–‹å§‹ç•«é¢çš„ç‰©ä»¶ã€‚
+			win_scene.cpp:å®šç¾©å‹åˆ©ç•«é¢çš„ç‰©ä»¶ã€‚
+		snowcraft.cpp:å®šç¾©æ•´å€‹éŠæˆ²çš„ç‰©ä»¶ã€‚
+--lib:å­˜æ”¾éœ€è¦çš„lib
 --model
-	--Lego:¼Ö°ª¤Hmodel¡A¤v¤è¾Ş§@¤Hª«
-	--Snowman:³·¤H©Çª«model¡A¼Ä¤è¤Hª«
---picture:¦s©ñ©Ò¦³ªºtexture
---stage:¦s©ñÃö¥d³]©w¸ê®Æ
---music:¦s©ñ­µ¼Ö
-final.cpp:¥Dµ{¦¡¦ì¸m
+	--Lego:æ¨‚é«˜äººmodelï¼Œå·±æ–¹æ“ä½œäººç‰©
+	--Snowman:é›ªäººæ€ªç‰©modelï¼Œæ•µæ–¹äººç‰©
+--picture:å­˜æ”¾æ‰€æœ‰çš„texture
+--stage:å­˜æ”¾é—œå¡è¨­å®šè³‡æ–™
+--music:å­˜æ”¾éŸ³æ¨‚
+final.cpp:ä¸»ç¨‹å¼ä½ç½®
 glm.cpp:obj model loader
 
-learning more information in §õ®aÂ@'s github:
+learn more information in æå®¶é§¿'s github:
 https://github.com/JJ-Tom-Li/Rendering-Techniques-and-Applications-Assignments/tree/master/Final
