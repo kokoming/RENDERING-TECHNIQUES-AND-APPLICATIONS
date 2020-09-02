@@ -22,6 +22,18 @@ Move left<br/>
 Move right<br/>
 --**Keyboard D**<br/>
 Move backward<br/>
+--**Keyboard t**<br/>
+move hand forward<br/>
+--**Keyboard f**<br/>
+move hand left<br/>
+--**Keyboard g**<br/>
+move hand backward<br/>
+--**Keyboard h**<br/>
+move hand right<br/>
+--**Keyboard b**<br/>
+move hand up<br/>
+--**Keyboard v**<br/>
+move hand down<br/>
 --**Mouse right click**<br/>
 Rotate the scene by x-axis<br/>
 --**Mouse left click**<br/>
